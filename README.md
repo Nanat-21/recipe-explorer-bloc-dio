@@ -68,7 +68,8 @@ Modern Flutter UI built with Material Design and reactive state management.
 ## 🛠️ Tech Stack
 
 - **State Management:** Flutter BLoC  
-- **Networking:** Dio (with interceptors & error handling)  
+- **Networking:** Dio (with interceptors & error handling)
+- **API:** TheMealDB → https://www.themealdb.com/api.php
 - **Architecture:** Clean Architecture (Data → Domain → Presentation)  
 - **Language:** Dart  
 - **Framework:** Flutter  
@@ -121,16 +122,16 @@ lib/
 
 ## 🚀 How to Run
 
-# 1. Clone repository
+### 1. Clone repository
 git clone https://github.com/Nanat-21/recipe-explorer-bloc-dio.git
 
-# 2. Navigate to project
+### 2. Navigate to project
 cd recipe-explorer-bloc-dio
 
-# 3. Install dependencies
+### 3. Install dependencies
 flutter pub get
 
-# 4. Run app
+### 4. Run app
 flutter run
 
 ---
