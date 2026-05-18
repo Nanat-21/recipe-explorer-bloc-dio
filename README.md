@@ -16,6 +16,7 @@ This project is structured into clean layers:
 
 <p float="left">
   <img src="screenshots/Screenshot 2026-05-18 184951.png" width="200"/>
+  <img src="screenshots/Screenshot 2026-05-18 185111.png" width="200"/>
 </p>
 
 ---
@@ -40,7 +41,7 @@ Recipes are fetched using **Dio**, with:
 - Clean repository pattern
 
 <p float="left">
-  <img src="screenshots/Screenshot 2026-05-18 185111.png" width="200"/>
+  <img src="screenshots/Screenshot 2026-05-18 184951.png" width="200"/>
 </p>
 
 ---
